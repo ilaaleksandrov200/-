@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Денис Беляков</h1>
+      <ul>
+        <li>люблю играть в игры:</li>
+        <p>люблю играть в S.T.A.L.K.E.R.</p>
+        <img src="https://avatars.mds.yandex.net/i?id=adc7b1c47e8f2c6599f68eacb0f5f64d-5885375-images-thumbs&n=13" width="768px" height="550px"/>
+        
+
+        <li>катаюсь на велике</li>
+        <li>делаю сайты</li>
+      </ul>
+      
+    </main>
+    <footer
+
+  </body>
+</html>
