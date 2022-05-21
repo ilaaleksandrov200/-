@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>My Sites</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Мои сайты</h1>
+      <p><a class="link-text" href=" https://ilaaleksandrov200.github.io/Call-of-Duty-mobile/"><b>Сайт</b>Call-of-Duty-mobile</a> </p>
+        <p><a class="link-text" href="http://project4628195.tilda.ws/page23670622.html"><b>Сайт</b></a>айфон </p>
+        <p><a class="link-text" href="http://project4628195.tilda.ws/"><b>Сайт</b></a> МАЙНКРАФТ</p>
+    <footer>
+    </footer>
+  </body>
+</html>
